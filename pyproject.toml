@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name            = "lynx-investor-healthcare"
-version = "4.0"
+version = "4.0.1"
 description     = "Lynx Healthcare — Fundamental analysis specialized for large pharma, biotech, medical devices, healthcare services, health insurance & life-sciences tools companies"
 readme          = "README.md"
 requires-python = ">=3.10"
