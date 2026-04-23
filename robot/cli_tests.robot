@@ -88,7 +88,7 @@ Explain A Valuation Metric
     Given The Application Is Available
     When I Explain Metric "cash_to_market_cap"
     Then The Exit Code Should Be 0
-    Then The Output Should Contain "Cash-to-Market-Cap"
+    Then The Output Should Contain "Cash / Market Cap"
 
 Explain A Healthcare-Specific Metric R&D Intensity
     [Documentation]    GIVEN the app WHEN I explain rd_intensity THEN it shows details

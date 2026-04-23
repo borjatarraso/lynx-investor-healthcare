@@ -1,6 +1,6 @@
 """Lynx Healthcare — Fundamental analysis specialized for large pharma, biotech, medical devices, healthcare services, managed care / health insurance, life-sciences tools, drug distribution, and health IT."""
 
-__version__ = "3.0.1"
+__version__ = "3.0.2"
 __author__ = "Borja Tarraso"
 __author_email__ = "borja.tarraso@member.fsf.org"
 __year__ = "2026"
