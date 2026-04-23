@@ -1,13 +1,13 @@
 """Lynx Healthcare — Fundamental analysis specialized for large pharma, biotech, medical devices, healthcare services, managed care / health insurance, life-sciences tools, drug distribution, and health IT."""
 
-__version__ = "5.4"
+__version__ = "5.5"
 __author__ = "Borja Tarraso"
 __author_email__ = "borja.tarraso@member.fsf.org"
 __year__ = "2026"
 __license__ = "BSD-3-Clause"
 
 SUITE_NAME = "Lince Investor Suite"
-SUITE_VERSION = "5.4"
+SUITE_VERSION = "5.5"
 SUITE_LABEL = f"{SUITE_NAME} v{SUITE_VERSION}"
 APP_NAME = "Lynx Healthcare Analysis"
 
