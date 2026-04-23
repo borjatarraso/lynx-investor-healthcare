@@ -720,7 +720,7 @@ def classify_jurisdiction(country: Optional[str],
 
 
 # Backwards-compat aliases — kept for callers that still import the old names
-# from earlier Lynx sector kits (mining / tech).
+# from earlier Lynx sector kits.
 classify_commodity = classify_category  # pragma: no cover
 Commodity = HealthCategory  # pragma: no cover
 TechCategory = HealthCategory  # pragma: no cover

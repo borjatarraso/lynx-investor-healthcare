@@ -302,7 +302,7 @@ class CollapsibleCard:
 # Main application
 # ---------------------------------------------------------------------------
 
-class LynxTechGUI:
+class LynxHealthGUI:
     """Tkinter GUI application for Lynx Healthcare Analysis."""
 
     def __init__(self, cli_args) -> None:
@@ -2838,5 +2838,5 @@ def _assessment_color(text: str) -> str:
 
 def run_gui(args) -> None:
     """Launch the tkinter GUI."""
-    app = LynxTechGUI(cli_args=args)
+    app = LynxHealthGUI(cli_args=args)
     app.run()
